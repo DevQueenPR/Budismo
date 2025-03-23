@@ -57,3 +57,14 @@ Este estudio ofrece una **visión profunda y reflexiva** sobre la influencia del
 - 🌍 Promover el entendimiento y el respeto hacia la diversidad cultural en el mundo contemporáneo.  
 
 ¡Esperamos que esta presentación te inspire a valorar las ricas tradiciones culturales de Japón! 🎌✨🙏
+
+## 🎨 Desarrolladores
+
+- ✨ **Génesis M. Ojeda**
+  - 🐙 **GitHub**: [DevQueenPR](https://github.com/DevQueenPR)  
+  - 💼 **LinkedIn**: [Génesis M. Ojeda](https://www.linkedin.com/in/g%C3%A9nesis-ojeda-451576302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 🌟 **Lara Cordero**
+  - 🐱 **GitHub**: [lvtech](https://github.com/lvctech)
+  - 💼 **LinkedIn**: [Lara Cordero](https://www.linkedin.com/in/lara-cordero/)    
+
+---
